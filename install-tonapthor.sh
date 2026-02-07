@@ -1,4 +1,5 @@
-cd ~/TonapthorSpectre
+mkdir ~/Tonapthor
+cd ~/Tonapthor
 
 cat > install-tonapthor.sh << 'EOF'
 #!/bin/bash
